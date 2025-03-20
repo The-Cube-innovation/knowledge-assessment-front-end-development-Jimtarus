@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(44, 154, 168);
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style:hidden;
+    border-width: 500px;
+}
+img {
+    display: inline-block;
+    clip-path: circle( 50%);
+    margin: auto;
+    width: 50%;
+    border-radius: 8px;
+}
+button{
+    font-size: 100px;
+    color: cadetblue;
+    border-radius: 12px;
+
+}
